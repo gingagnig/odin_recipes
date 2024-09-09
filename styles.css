@@ -76,3 +76,68 @@ nav {
 #aboutus {
     margin-left: 74px;
 }
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    margin-left: 70px; 
+    margin-right: 70px; 
+    margin-bottom: 50px; 
+    background-color: rgb(255, 255, 255); 
+    vertical-align: -webkit-baseline-middle;
+}
+
+.logofooter {
+    width: 295px;
+    height: auto;
+    vertical-align: -webkit-baseline-middle;
+}
+
+.about,
+.adv,
+.rec {
+    vertical-align: -webkit-baseline-middle;
+    color: rgb(80, 80, 80);
+    margin-left: 185px;
+}
+
+.rec {
+    color: rgb(250, 5, 5);
+    font-size: 20px;
+}
+
+.news {
+    height: 50px;
+    width: 295px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(255, 13, 0);
+}
+
+.iconfoot {
+    width: 25px;
+    height: auto;
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 1px;
+}
+
+.iconfoot.s {
+    margin-left: 25px;
+}
+
+.iconfoot.s.in {
+    width: 35px;
+    height: auto;
+    margin-left: 18px;
+}
+
+.copyright {
+    margin-left: 30px;
+}
