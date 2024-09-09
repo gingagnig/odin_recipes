@@ -48,3 +48,31 @@ nav {
     width: 930px;
     color: rgb(240, 240, 240);
 }
+
+.section {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#recipes {
+    margin-left: 214px;
+}
+
+#quick {
+    margin-left: 74px;
+}
+
+#kitchen {
+    margin-left: 74px;
+}
+
+#table {
+    margin-left: 74px;
+}
+
+#holiday {
+    margin-left: 74px;
+}
+
+#aboutus {
+    margin-left: 74px;
+}
